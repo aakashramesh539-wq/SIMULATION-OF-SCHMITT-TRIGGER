@@ -1,10 +1,12 @@
 # SIMULATION-OF-SCHMITT-TRIGGER
 
 ## SIMULATION OF SCHMITT TRIGGER USING OP-AMP
+<img width="359" height="323" alt="image" src="https://github.com/user-attachments/assets/88ac4c13-103d-4252-b4c6-d0f9799ec1b6" />
+## AIM :
+To Design and simulate the Schmitt trigger circuit using LT-Spice
 
-## AIM : To Design and simulate the Schmitt trigger circuit using LT-Spice
-
-## SOFTWARE REQUIRED: LT-Spice
+## SOFTWARE REQUIRED:
+LT-Spice
 
 
 ## PROCEDURE:
